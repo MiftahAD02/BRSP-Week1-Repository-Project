@@ -11,3 +11,5 @@ Dengan mengakses basis data GEO, kami mengidentifikasi 2.560 gen diferensial (DE
 Kelebihan dari penelitian bahwa Naringenin ternyata mampu berperan sebagai anti-metasis sel kanker serviks. Serta penggunaan uji trasnwell juga membantu memberikan visualisasi berupa grafik jumlah sel yang meyakinkan secara ilmiah. Akan tetapi, kekurangan dari pengujian ini yakni kondisi lingkungan yang bersifat statis (diam). Hal ini membuat hasil uji Transwell belum 100% berhasil karena dalam tubuh terdapat cairan darah yang slelau bergerak.  
 ## Insight
 Dapat disimpulkan bahwa paper ini sangat menarik untuk diteliti lebih lanjut. Karena senyawa Narangenin ternyata bisa ditemukan dalam buah jeruk yang banyak didapati terutama di Indonesia. Untuk itu kita perlu mengeksplorasi lebih lanjut potensi kegunaan klinis hingga naringenin secara klinis serta mencakup uji in vivo pada hewan. Dari sini kita belajar bahwa ternyata ada senyawa lain yang mampu menjadi anti-metasis terhadap sel kanker serviks.
+
+[Image description](https://github.com/MiftahAD02/BRSP-Week1-Repository-Project/blob/1dee899f9f58a06139d420a49904b33764a1345d/Picture%20Week%201.jpg)
